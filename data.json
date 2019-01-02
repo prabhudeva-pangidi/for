@@ -1,0 +1,65 @@
+{
+    "subject": "",
+    "duration": 15,
+    "max": 10,
+    "questions": [
+        {
+            "qid": 9,
+            "title": " In which tag metadata tag are placed in html document ?",
+            "oa": "",
+            "ob": "meta",
+            "oc": ""
+        },
+        {
+            "qid": 10,
+            "title": " Which tag gives us largest heading in html ?",
+            "oa": "",
+            "ob": "",
+            "oc": "h1"
+        },
+        {
+            "qid": 11,
+            "title": "Which tag in html gives us smallest heading?",
+            "oa": "h6",
+            "ob": "",
+            "oc": ""
+        },
+        {
+            "qid": 12,
+            "title": "Which tag is used for drawing a horizontal line in html ?",
+            "oa": "",
+            "ob": "",
+            "oc": "hr"
+        },
+
+         {
+            "qid": 13,
+            "title": "which tag is used to create a space in line in html?",
+            "oa": "nbsp",
+            "ob": "h2",
+            "oc": "h6"
+        },
+        {
+            "qid":14,
+            "title": "Which tag places a new line in html document?",
+            "oa": "",
+            "ob": "br",
+            "oc": ""
+        },
+        {
+            "qid":15 ,
+            "title": "which tag is used to create a list of element with dotted bullet?",
+            "oa": "",
+            "ob": "",
+            "oc": "ul"
+        },
+        {
+            "qid": 16,
+            "title": "which tag is used to create a table in html?",
+            "oa": "table",
+            "ob": "",
+            "oc": ""
+        },
+        
+    ]
+}
